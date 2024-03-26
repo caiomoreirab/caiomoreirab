@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdigitalfellows.commons.gc.cuny.edu%2F2021%2F11%2F23%2Fgetting-started-with-pygame%2F&psig=AOvVaw1ncbBgO5GIn66Lp3J5moy6&ust=1711550767835000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDXt8-VkoUDFQAAAAAdAAAAABAJ alt="pygame">
 </p>
 
 <p align="center">
