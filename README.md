@@ -1,3 +1,6 @@
+![Snake animation](https://github.com/caiomoreiradev/caiomoreiradev/blob/output/github-contribution-grid-snake.svg)
+
+
 <p align="center">
   <img src="https://github.com/caiomoreiradev/caiomoreiradev/blob/main/assets/header.gif" alt="Header">
 </p>
