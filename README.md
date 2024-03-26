@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/caiomoreirab/caiomoreirab/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/caiomoreirab/caiomoreirab/blob/output/github-contribution-grid-snake.gif)
 
 
 <p align="center">
