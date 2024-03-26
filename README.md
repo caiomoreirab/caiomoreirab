@@ -11,7 +11,7 @@
 <h2 align="center">Principais habilidades</h2>
 
 <p align="center">
-  <img src="https://github.com/caiomoreiradev/caiomoreiradev/blob/main/assets/python.png" alt="Python" width="50" height="50">
+  <img src="[https://github.com/caiomoreiradev/caiomoreiradev/blob/main/assets/python.png](https://camo.githubusercontent.com/af0a6310929b3da27d8ffbfdcd0db2d24849ee6ba7fcd4dcfb162115467fc8f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436861744750542d3734616139633f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6169266c6f676f436f6c6f723d7768697465)" alt="Python" width="50" height="50">
   <img src="https://github.com/caiomoreiradev/caiomoreiradev/blob/main/assets/c.png" alt="C" width="50" height="50">
   <img src="https://github.com/caiomoreiradev/caiomoreiradev/blob/main/assets/javascript.png" alt="JavaScript" width="50" height="50">
   <img src="https://github.com/caiomoreiradev/caiomoreiradev/blob/main/assets/html.png" alt="HTML" width="50" height="50">
