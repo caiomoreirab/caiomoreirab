@@ -31,6 +31,6 @@
 </p>
 
 <p align="center">
-  🎓 Estudante de Ciências da Computação na UFMA<br>
+  🎓 Estudante de Ciências da Computação na UFMA 🇧🇷<br>
   Vamos criar algo incrível juntos!
 </p>
