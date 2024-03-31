@@ -1,25 +1,7 @@
  ![snake gif](https://github.com/caiomoreirab/caiomoreirab/blob/output/github-contribution-grid-snake.gif)
 
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=caiomoreirab&theme=dark)
 
-import matplotlib.pyplot as plt
-
-# Dados para o gráfico
-linguagens = ['Python', 'C', 'JavaScript', 'HTML', 'CSS', 'Java']
-popularidade = [90, 70, 85, 80, 75, 85]  # Valores fictícios apenas para exemplo
-
-# Criar o gráfico de barras
-plt.figure(figsize=(10, 6))
-plt.bar(linguagens, popularidade, color=['blue', 'green', 'orange', 'red', 'purple', 'yellow'])
-plt.xlabel('Linguagens de Programação')
-plt.ylabel('Popularidade (%)')
-plt.title('Popularidade de Linguagens de Programação')
-plt.ylim(0, 100)  # Define o limite do eixo y de 0 a 100
-plt.xticks(rotation=45)  # Rotaciona os rótulos do eixo x para melhor visualização
-plt.grid(axis='y', linestyle='--', alpha=0.7)  # Adiciona linhas de grade horizontal
-plt.tight_layout()  # Ajusta o layout para evitar cortes
-
-# Mostrar o gráfico
-plt.show()
 
 
 <p align="center">
