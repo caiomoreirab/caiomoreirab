@@ -1,6 +1,3 @@
-![snake gif](https://github.com/caiomoreirab/caiomoreirab/blob/output/github-contribution-grid-snake.gif)
-
-
 <p align="center">
   <img src="https://github.com/caiomoreiradev/caiomoreiradev/blob/main/assets/header.gif" alt="Header">
 </p>
@@ -22,12 +19,6 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
-  <img src="https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pygame">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-</p>
-
 <h2 align="center">Contato</h2>
 
 <p align="center">
@@ -40,5 +31,6 @@
 </p>
 
 <p align="center">
+  🎓 Estudante de Ciências da Computação na UFMA<br>
   Vamos criar algo incrível juntos!
 </p>
