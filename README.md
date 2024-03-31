@@ -26,7 +26,7 @@
     <img src="https://github.com/caiomoreiradev/caiomoreiradev/blob/main/assets/linkedin.gif" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/_moreira_caio_/">
-    <img src="public/icons/instagram/instagram.svg" alt="Instagram">
+    <img src="https://github.com/caiomoreiradev/caiomoreiradev/blob/main/assets/instagram.gif" alt="Instagram">
   </a>
 </p>
 
