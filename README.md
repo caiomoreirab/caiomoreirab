@@ -35,7 +35,7 @@
     <img src="https://github.com/caiomoreiradev/caiomoreiradev/blob/main/assets/linkedin.gif" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/_moreira_caio_/">
-    <img src="[https://github.com/caiomoreiradev/caiomoreiradev/blob/main/assets/instagram.gif](https://4.bp.blogspot.com/-NS_uLd2UdEI/WrSyI1AWC_I/AAAAAAAAKfI/McgqxTCkSg8eMz7vjmw8I-zrIupIPDWdwCLcBGAs/s1600/Instagram.png)https://4.bp.blogspot.com/-NS_uLd2UdEI/WrSyI1AWC_I/AAAAAAAAKfI/McgqxTCkSg8eMz7vjmw8I-zrIupIPDWdwCLcBGAs/s1600/Instagram.png" alt="Instagram">
+    <img src="[[https://github.com/caiomoreiradev/caiomoreiradev/blob/main/assets/instagram.gif](https://4.bp.blogspot.com/-NS_uLd2UdEI/WrSyI1AWC_I/AAAAAAAAKfI/McgqxTCkSg8eMz7vjmw8I-zrIupIPDWdwCLcBGAs/s1600/Instagram.png)https://4.bp.blogspot.com/-NS_uLd2UdEI/WrSyI1AWC_I/AAAAAAAAKfI/McgqxTCkSg8eMz7vjmw8I-zrIupIPDWdwCLcBGAs/s1600/Instagram.png"](https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/instagram/instagram.svg) alt="Instagram">
   </a>
 </p>
 
