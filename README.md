@@ -1,7 +1,7 @@
  ![snake gif](https://github.com/caiomoreirab/caiomoreirab/blob/output/github-contribution-grid-snake.gif)
 <center>
- ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=caiomoreirab&theme=dark)
 
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=caiomoreirab&theme=dark)
 ![GitHub stars](https://img.shields.io/github/stars/caiomoreirab/nome-do-seu-repositorio?style=social)
 </center>
 
