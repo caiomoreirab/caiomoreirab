@@ -1,10 +1,9 @@
  ![snake gif](https://github.com/caiomoreirab/caiomoreirab/blob/output/github-contribution-grid-snake.gif)
  
-<center>
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=caiomoreirab&theme=dark)
-</center>
-
-
+<div style="text-align:center;">
+ 
+ ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=caiomoreirab&theme=dark)
+</div>
 
 
 <p align="center">
