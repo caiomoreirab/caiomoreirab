@@ -1,8 +1,9 @@
  ![snake gif](https://github.com/caiomoreirab/caiomoreirab/blob/output/github-contribution-grid-snake.gif)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=caiomoreirab&theme=dark)
+<center>
+ ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=caiomoreirab&theme=dark)
 
 ![GitHub stars](https://img.shields.io/github/stars/caiomoreirab/nome-do-seu-repositorio?style=social)
+</center>
 
 
 
@@ -34,7 +35,7 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
 </p>
 
-<h2 align="center">Contato</h2>
+<h2 align="center"></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/caio-moreira/">
