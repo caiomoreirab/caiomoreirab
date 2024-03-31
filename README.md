@@ -1,9 +1,10 @@
- ![snake gif](https://github.com/caiomoreirab/caiomoreirab/blob/output/github-contribution-grid-snake.gif)
- 
+<p align="center">
+  <img src="https://github.com/caiomoreirab/caiomoreirab/blob/output/github-contribution-grid-snake.gif" alt="Snake GIF">
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiomoreirab&theme=dark" alt="Github Contributions">
 </p>
-
 
 <p align="center">
   <img src="https://github.com/caiomoreiradev/caiomoreiradev/blob/main/assets/header.gif" alt="Header">
@@ -47,3 +48,10 @@
   🎓 Estudante de Ciências da Computação na UFMA 🇧🇷<br>
   Vamos criar algo incrível juntos!
 </h4>
+
+<h2 align="center">Estatísticas de Linguagens</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/caiomoreirab?style=for-the-badge" alt="Top Language">
+  <img src="https://img.shields.io/github/languages/count/caiomoreirab?style=for-the-badge" alt="Languages Count">
+</p>
