@@ -49,9 +49,3 @@
   Vamos criar algo incrível juntos!
 </h4>
 
-<h2 align="center">Estatísticas de Linguagens</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/caiomoreirab?style=for-the-badge" alt="Top Language">
-  <img src="https://img.shields.io/github/languages/count/caiomoreirab?style=for-the-badge" alt="Languages Count">
-</p>
