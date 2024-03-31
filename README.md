@@ -2,6 +2,9 @@
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=caiomoreirab&theme=dark)
 
+![GitHub stars](https://img.shields.io/github/stars/caiomoreirab/nome-do-seu-repositorio?style=social)
+
+
 
 
 <p align="center">
